@@ -37,6 +37,9 @@ where:
 | Simulation time | `t` | 3600 (60 min) | s |
 | Faraday constant | `F` | 96485 | C/mol |
 
+<img width="1184" height="731" alt="image" src="https://github.com/user-attachments/assets/c435d6dd-7751-4cba-b8c7-9e058dab755b" />
+
+
 ## How to Run
 
 ### Prerequisites
