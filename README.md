@@ -1,5 +1,5 @@
 # electrodialysis-batch-model
-Batch electrodialysis (ED) model for salt removal – comparing linear vs. exponential kinetics. Python (SciPy/Matplotlib) code and one‑page project summary. Preparatory work for PhD application at University of Twente (Membrane Science &amp; Technology).
+Batch electrodialysis (ED) model for salt removal – comparing linear vs. exponential kinetics. Python (SciPy/Matplotlib) code and one‑page project summary. 
 
 # Batch Electrodialysis Model for Salt Removal
 
@@ -10,7 +10,6 @@ A simple Python model to simulate salt concentration decrease over time in a bat
 - **Linear model**: constant salt removal rate (`dC/dt = constant`)
 - **Exponential model**: removal rate proportional to remaining concentration (`dC/dt ∝ C`)
 
-This project was prepared as a self‑directed preparatory study for a PhD application at the **University of Twente** (Membrane Science and Technology group).
 
 ## Objective
 
